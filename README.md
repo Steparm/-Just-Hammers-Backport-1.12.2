@@ -72,7 +72,7 @@ A backport of the popular Just Hammers mod to Minecraft 1.12.2.
 ## Credits
 
 **Original Author:** [ErrorMikey](https://github.com/nanite)  
-**Backport Team:** [Steparm_tesst](https://github.com/stepm) & [SHEG1_Plus](https://github.com/SHEG1-Plus)  
+**Backport Team:** [Steparm_tesst](https://github.com/Steparm) & [SHEG1_Plus](https://github.com/SHEG1Plus)  
 **Textures:** [Rid!](https://github.com/nanite)
 
 This is a backport, not an official work. Code is GPL v3.
