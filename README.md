@@ -61,13 +61,6 @@ A backport of the popular Just Hammers mod to Minecraft 1.12.2.
 
 ---
 
-## Controls
-
-- **Left Click** - Area mining
-- **Shift + Left Click** - Single block mining
-
----
-
 ## Credits
 
 **Original Author:** [ErrorMikey](https://github.com/nanite)  
