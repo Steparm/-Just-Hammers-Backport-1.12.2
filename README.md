@@ -14,7 +14,6 @@ A backport of the popular Just Hammers mod to Minecraft 1.12.2.
 - **4 Base Materials** - Iron, Stone, Diamond, Golden
 - **Additional Materials** - Netherite (conditional), Copper (conditional)
 - **Core Crafting System** - Craft advanced hammers using special cores
-- **Direction Detection** - Mining direction works like Techguns
 - **Sneak Mode** - Hold Shift to mine single blocks
 - **Lava Immunity** - Netherite items don't burn in lava
 
