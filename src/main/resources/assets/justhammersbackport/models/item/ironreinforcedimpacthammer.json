@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "justhammersbackport:items/iron_reinforced_impact_hammer"
+  }
+}

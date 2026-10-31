@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "justhammersbackport:items/netherite_reinforced_hammer"
+  }
+}

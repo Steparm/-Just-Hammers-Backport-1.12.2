@@ -1,0 +1,45 @@
+{
+  "conditions": [
+    {
+      "type": "forge:or",
+      "values": [
+        { "type": "forge:mod_loaded", "modid": "futuremc" },
+        { "type": "forge:mod_loaded", "modid": "simpleores" },
+        { "type": "forge:mod_loaded", "modid": "copper" },
+        { "type": "forge:mod_loaded", "modid": "copperore" },
+        { "type": "forge:mod_loaded", "modid": "orespawn" },
+        { "type": "forge:mod_loaded", "modid": "aoa3" },
+        { "type": "forge:mod_loaded", "modid": "nevermine" },
+        { "type": "forge:mod_loaded", "modid": "divinerpg" },
+        { "type": "forge:mod_loaded", "modid": "mekanism" },
+        { "type": "forge:mod_loaded", "modid": "thermalfoundation" },
+        { "type": "forge:mod_loaded", "modid": "tconstruct" },
+        { "type": "forge:mod_loaded", "modid": "ic2" },
+        { "type": "forge:mod_loaded", "modid": "immersiveengineering" },
+        { "type": "forge:mod_loaded", "modid": "forestry" },
+        { "type": "forge:mod_loaded", "modid": "railcraft" },
+        { "type": "forge:mod_loaded", "modid": "projectred" },
+        { "type": "forge:mod_loaded", "modid": "bluepower" }
+      ]
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "group": "justhammersbackport",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": { "type": "forge:ore_dict", "ore": "blockCopper" },
+    "1": { "item": "justhammersbackport:reinforcedcore" },
+    "2": { "type": "forge:ore_dict", "ore": "blockCopper" },
+    "4": { "item": "minecraft:stick" },
+    "5": { "type": "forge:ore_dict", "ore": "blockCopper" },
+    "7": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "item": "justhammersbackport:copperreinforcedhammer",
+    "count": 1
+  }
+}
